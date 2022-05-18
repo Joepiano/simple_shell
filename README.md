@@ -47,7 +47,7 @@ Compiler: gcc 4.8.4
 How To Install, Compile, and Use
 Install and Compile
 
-(your_terminal)$ git clone https://github.com/MelissaN/simple_shell.git
+(your_terminal)$ git clone [https://github.com/Joepiano/simple_shell.git]
 (your_terminal)$ cd simple_shell
 (your_terminal)$ gcc -Wall -Werror -Wextra -pedantic -Wno-format *.c -o simple_shell
 Non-Interactive Mode
